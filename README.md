@@ -4,3 +4,5 @@ This is a public repository managed by PaidPaper. The code is based in Python. I
 # public repo
 
 This is a public repository managed by PaidPaper. The code is based in Python. It has several GitHub actions.
+
+This is a public repository managed by PaidPaper. The code is based in Python. It has several GitHub actions.
